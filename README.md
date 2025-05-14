@@ -1,2 +1,2 @@
-# PRACTICAS_PUENTEH_REL-
+# PRACTICAS_PUENTEH_RELE
 Evidencia del puente H y relé
